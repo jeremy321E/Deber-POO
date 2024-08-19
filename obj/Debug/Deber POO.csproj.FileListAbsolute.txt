@@ -1,0 +1,7 @@
+C:\Users\darwin\source\repos\Deber POO\bin\Debug\Deber POO.exe.config
+C:\Users\darwin\source\repos\Deber POO\bin\Debug\Deber POO.exe
+C:\Users\darwin\source\repos\Deber POO\bin\Debug\Deber POO.pdb
+C:\Users\darwin\source\repos\Deber POO\obj\Debug\Deber POO.csproj.AssemblyReference.cache
+C:\Users\darwin\source\repos\Deber POO\obj\Debug\Deber POO.csproj.CoreCompileInputs.cache
+C:\Users\darwin\source\repos\Deber POO\obj\Debug\Deber POO.exe
+C:\Users\darwin\source\repos\Deber POO\obj\Debug\Deber POO.pdb
